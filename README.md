@@ -13,6 +13,8 @@ UI is made with Bootstrap 4
 
 Separation of concerns
 
+## IT HAS ONLY 60 Requests per day 
+
 ## Functionalities:
 - Fetch API (GitHub API)
 - ES5 / ES6 classes
@@ -22,4 +24,4 @@ Separation of concerns
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/zemchuks/github-readme-stats)
+
