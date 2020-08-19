@@ -15,7 +15,7 @@ UI is made with Bootstrap 4
 
 Demo of the UI can be seen here 👉 [https://hubfindr.netlify.app/](https://hubfindr.netlify.app/)
 
-## IT HAS ONLY 60 Requests per day 
+## IT HAS ONLY 60 Requests per Hour 
 
 ## Functionalities:
 - Fetch API (GitHub API)
