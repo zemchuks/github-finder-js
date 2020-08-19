@@ -13,7 +13,7 @@ their last five repos and a link to view their full profile on github.
 UI is made with Bootstrap 4
 
 
-Separation of concerns
+Demo of the UI can be seen here 👉 [https://hubfindr.netlify.app/](https://hubfindr.netlify.app/)
 
 ## IT HAS ONLY 60 Requests per day 
 
