@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/3deb2dcf-a734-498c-b46e-e25adf3c765e/deploy-status)](https://app.netlify.com/sites/hubfindr/deploys)
+
 GitHub Finder
 
 ---
